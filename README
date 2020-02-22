@@ -1,0 +1,3 @@
+This project is about the prediction of car price using OLS Regression.
+Python pandas,matplotlib, statmodels and sklearn libraries were used.
+The dataset was taken from kaggle. It contained 205 rows and 26 columns
