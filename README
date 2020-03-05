@@ -1,3 +1,8 @@
-This project is about the prediction of car price using OLS Regression.
-Python pandas,matplotlib, statmodels and sklearn libraries were used.
-The dataset was taken from kaggle. It contained 205 rows and 26 columns
+Business Problem               : To predict the price of the car using the factors such as fuel type, number of doors, mileage
+
+Machine Learning Concepts Used : Data Imputation, Variable Transformations, Exploratory Data Analysis,
+                                Principal Component Analysis, Ridge Regression, Lasso Regression, cross validation,
+                                Multiple Linear Regression, Decision Trees, Random Forest, Gradient Boosting
+                                
+Tools                          : Python
+Libraries                      : numpy, pandas, sklearn, matplotlib, statmodels, seaborn
