@@ -2,7 +2,7 @@ Business Problem               : To predict the price of the car using the facto
 
 Machine Learning Concepts Used : Data Imputation, Variable Transformations, Exploratory Data Analysis,
                                 Principal Component Analysis, Ridge Regression, Lasso Regression, cross validation,
-                                Multiple Linear Regression, Decision Trees, Random Forest, Gradient Boosting
+                                Multiple Linear Regression
                                 
 Tools                          : Python
 Libraries                      : numpy, pandas, sklearn, matplotlib, statmodels, seaborn
