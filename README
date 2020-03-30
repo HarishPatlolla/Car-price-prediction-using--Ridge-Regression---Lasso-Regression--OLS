@@ -1,8 +1,16 @@
-Business Problem               : To predict the price of the car using the factors such as fuel type, number of doors, mileage
+Business Problem               
+            To predict the price of the car using the factors such as fuel type, number of doors, mileage
 
-Machine Learning Concepts Used : Data Imputation, Variable Transformations, Exploratory Data Analysis,
-                                Principal Component Analysis, Ridge Regression, Lasso Regression, cross validation,
-                                Multiple Linear Regression
+Machine Learning Concepts Used :
+           # Data Imputation
+           # Variable Transformations
+           # Exploratory Data Analysis
+           # Principal Component Analysis
+           # Ridge Regression
+           # Lasso Regression
+           # cross validation
+           # Multiple Linear Regression
                                 
-Tools                          : Python
+Programming Language Used
+           # Python
 Libraries                      : numpy, pandas, sklearn, matplotlib, statmodels, seaborn
